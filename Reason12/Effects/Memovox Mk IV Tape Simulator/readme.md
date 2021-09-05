@@ -1,4 +1,4 @@
-![Thumbnail](thumbnail.jpg)
+![Thumbnail](thumbnail.JPG)
 
 * Groovy Melon Morfin XF Crossfader https://www.reasonstudios.com/shop/rack-extension/morfin-xf-crossfader/
 * Kilohearts AB kHs 3-Band EQ https://www.reasonstudios.com/shop/rack-extension/khs-3-band-eq/
