@@ -1,4 +1,4 @@
-![Thumbnail](thumbnail.jpg)
+[[thumbnail.jpg]]
 
 pongasoft A/B Audio & CV Switch
 https://www.reasonstudios.com/shop/rack-extension/ab-audio-cv-switch/
