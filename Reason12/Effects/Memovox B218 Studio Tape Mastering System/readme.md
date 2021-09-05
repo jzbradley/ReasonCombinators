@@ -1,4 +1,4 @@
-![Thumbnail](thumbnail.jpg)
+![Thumbnail](thumbnail.JPG)
 
 * Aftermath Audio CV8X4 CV Generator https://www.reasonstudios.com/shop/rack-extension/cv8x4-cv-generator/
 * MagmaSonic Classic Filter https://www.reasonstudios.com/shop/rack-extension/classic-filter/
